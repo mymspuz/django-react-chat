@@ -1,0 +1,8 @@
+/backend/base/migrations/0001_initial.py
+/backend/base/migrations/0002_rooms_user.py
+/backend/base/migrations/0003_alter_rooms_user.py
+/backend/base/migrations/0004_messages.py
+/backend/db.sqlite3
+/frontend/.idea/
+/frontend/node_modules/
+
